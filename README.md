@@ -14,6 +14,8 @@ The Project is built for Windows environment.
 Open the project in Visual Studio, by clicking the .sln file. Run the project. A console window will pop up, type enter and follow the instructions from there.
 You can click Compilation -> Build Solution to build a .exe and run it from your drive.
 
+If you with to run the Compiled Code, go to bin/Debug and run StarwarsTripAdvisor.exe
+
 ### Prerequisites
 
 [Visual Studio](https://www.visualstudio.com/downloads/)
