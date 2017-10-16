@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarwarsTripAdvisor", "StarwarsTripAdvisor\StarwarsTripAdvisor.csproj", "{B6878FE5-8B80-45B9-99DE-3F2996DBE132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarwarsTripAdvisorTests", "StarwarsTripAdvisorTests\StarwarsTripAdvisorTests.csproj", "{183853A6-729A-4413-8CF4-473E0A562EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6878FE5-8B80-45B9-99DE-3F2996DBE132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6878FE5-8B80-45B9-99DE-3F2996DBE132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6878FE5-8B80-45B9-99DE-3F2996DBE132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6878FE5-8B80-45B9-99DE-3F2996DBE132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183853A6-729A-4413-8CF4-473E0A562EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183853A6-729A-4413-8CF4-473E0A562EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183853A6-729A-4413-8CF4-473E0A562EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183853A6-729A-4413-8CF4-473E0A562EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {260C277D-2D31-42EC-9D6A-FCBC4B4DCA2B}
+	EndGlobalSection
+EndGlobal
